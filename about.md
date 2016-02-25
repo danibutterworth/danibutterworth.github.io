@@ -3,10 +3,10 @@ layout: page
 title: Sobre mí
 permalink: /about/
 ---
-
-![_config.yml]({{ site.baseurl }}/images/dani.png)
+<div> <img src="/images/dani.png" alt="dani" style="width:150px; float:left; margin: 10px;"/>
 
 Soy Ingeniero Superior de Telecomunicaciones con varios años de experiencia en grandes multinacionales como Telefónica I+D, Bosch, Citroën o Aenor. Estos años me han servido para aprender las bases del trabajo en equipo y de la innovación tecnológica.
+</div>
 
 Actualmente estoy en el equipo de Despliegue de Servicio de un producto M2M de Telefónica I+D en el cual realizo análisis de datos y tareas técnicas para mejorar la plataforma. También hago tareas en la parte de gestión como service manager, me encargo de coordinar equipos de operaciones.
 

@@ -3,7 +3,7 @@ layout: page
 title: Sobre mí
 permalink: /about/
 ---
-<img src="/images/dani.png" alt="dani" style="width:200px; float:left; margin: 10px; border-radius: 50%;"/>
+<img src="/images/dani.png" alt="dani" style="width:200px; float:none; margin: 10px; border-radius: 50%;"/>
 
 Soy Ingeniero Superior de Telecomunicaciones con varios años de experiencia en grandes multinacionales como Telefónica I+D, Bosch, Citroën o Aenor. Estos años me han servido para aprender las bases del trabajo en equipo y de la innovación tecnológica.
 

@@ -1,16 +1,20 @@
 ---
 layout:     post
-title:      ¿Y ahora hacia dónde?
-date:       2014-11-21
-where:      Bilbao - Spain
-tag:        imho
-cover:      config.jpg
-permalink:  /blog/y-ahora-hacia-donde
+title:      Marketing Digital - Curso Presencial Google (Día 1)
+date:       2016-2-29
+where:      Madrid
+tag:        
+cover:      
+permalink:  /blog/curso-marketing-digital-dia1
 published:  true
 ---
-Quedan no más de 10 días para que comience lo que hasta ahora puede ser la mayor experiencia en mi vida. Vuelvo a sentir esa extraña sensación a la que todos nunca nos acostumbramos, ese proceso químico en nuestro cerebro que permite sentir nervios, ilusión e incógnitas en un mismo momento.
 
-¿Recuerdas lo que sentías antes de dar tu primer beso? ¿Cuando subiste de nivel perdiendo tu virginidad? ¿Tu primer día como universitario? ¿Cuando firmaste tu primer contrato? ¿Cuando firmaste tu primera hipoteca? En todas esas situaciones siempre sientes lo mismo: ilusión e incertidumbre además del tan temido y peligroso miedo, miedo por no saber si tras el beso lo hiciste bien o mal, miedo por pensar que eres un newbie sexual, miedo por casarte con un banco en vez de con tu pareja. El miedo es peligroso e indomable y es así como creo que me siento ahora mismo, con un revoltijo de sensaciones difíciles de controlar.
+Hoy ha sido el primer día del curso presencial de Marketing Digital que organiza Google como parte de la selección de cursos de la iniciativa Actívate.
+
+Es un curso de 5 días de duración (full-time) y en esta ocasión se ha realizado en la Factultad de Informática de la Universidad Complutense de Madrid.
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Miguel Ángel Acosta de <a href="https://twitter.com/beruby_es">@beruby_es</a> visita <a href="https://twitter.com/hashtag/Act%C3%ADvateMadrid?src=hash">#ActívateMadrid</a>. ¡Primer caso real de la temporada! 😀 <a href="https://t.co/ig0vG1XUrQ">pic.twitter.com/ig0vG1XUrQ</a></p>&mdash; Google Actívate (@GoogleActivate) <a href="https://twitter.com/GoogleActivate/status/704318263833059328">29 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Lo curioso de todo esto es que somos nosotros mismos los que nos auto-infringimos esta sensación. Si en la mañana de domingo no hubiera leído el libro [Digital Nomad](http://digitalnomad.pl/) de Tomasz Nowak, tal vez ahora mismo estaría escribiendo algo sobre cualquier elemento intrascendente en mi vida. Pero no fue así, leí ese libro y en ese mismo momento entendí que era algo que me encantaría probar puesto que reunía ciertos verbos que creía haber perdido: viajar, conocer e ilusionar. Y digo que creía haber perdido porque los últimos 3 años en mi vida han sido realmente desconocidos para mi. Tengo la sensación de que estos últimos años han pasado como esos capítulos de tu serie preferida donde nunca pasa nada y donde no reconoces porque te gustaba tanto. Tanto es así que hasta mediados de este año he estado realmente débil emocionalmente, sufriendo por mi desidia conmigo mismo y haciendo sufrir a las personas que me quieren.
 

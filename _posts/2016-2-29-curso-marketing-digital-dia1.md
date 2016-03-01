@@ -37,8 +37,8 @@ Creo que lo más enriquecedor en este tipo de cursos son las ponencias de gente 
 [Miguel Acosta](https://twitter.com/Miguel_BeRuby) que nos cuenta de primera mano el caso real de Beruby. Nos enseñó de primera mano los planes de retención de la marca. En su experiencia el boca-oreja había sido muy complicado y lo que mejor les ha funcionado han sido campañas de mailing muy segmentados.
 
 También nos dio varios consejos sobre como empezar una startup:
-- Contratar lento y despedir rápido.
-- No ceder porcentaje de la empresa a cambio de financiación, ya que al final el esfuerzo que le dedicas a tu proyecto no merece la pena.
+* Contratar lento y despedir rápido.
+* No ceder porcentaje de la empresa a cambio de financiación, ya que al final el esfuerzo que le dedicas a tu proyecto no merece la pena.
 
 #### Métricas
 De la parte más técnica se encargó

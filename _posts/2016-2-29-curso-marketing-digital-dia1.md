@@ -38,9 +38,9 @@ Creo que lo más enriquecedor en este tipo de cursos son las ponencias de gente 
 
 También nos dio varios consejos sobre como empezar una startup:
 
-* Contratar lento y despedir rápido.
+- Contratar lento y despedir rápido.
 
-* No ceder porcentaje de la empresa a cambio de financiación, ya que al final el esfuerzo que le dedicas a tu proyecto no merece la pena.
+- No ceder porcentaje de la empresa a cambio de financiación, ya que al final el esfuerzo que le dedicas a tu proyecto no merece la pena.
 
 #### Métricas
 De la parte más técnica se encargó

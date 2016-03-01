@@ -1,13 +1,17 @@
 ---
 layout:     post
-title:      Curso Marketing Digital de Google (Día 1)
+title:      Curso Marketing Digital de Google (Día 2)
 date:       2016-2-29
 where:      Madrid
 tag:        
 cover:      
 permalink:  /blog/curso-marketing-digital-dia1
-published:  true
+published:  false
 ---
+
+#### SEO
+[Natalia Sampériz](https://twitter.com/nsamperiz)
+
 
 Así ha sido el primer día del curso presencial de Marketing Digital que organiza Google como parte de la selección de cursos de la iniciativa Actívate.
 

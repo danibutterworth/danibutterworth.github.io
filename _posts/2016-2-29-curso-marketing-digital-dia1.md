@@ -11,6 +11,9 @@ published:  true
 
 Así ha sido el primer día del curso presencial de Marketing Digital que organiza Google como parte de la selección de cursos de la iniciativa Actívate.
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¡Empiezan los cursos básicos de <a href="https://twitter.com/hashtag/MarketingDigital?src=hash">#MarketingDigital</a>! ¡Arrancamos en Madrid! 😊<a href="https://twitter.com/hashtag/Act%C3%ADvateMadrid?src=hash">#ActívateMadrid</a> <a href="https://t.co/uka8Jn2GUa">pic.twitter.com/uka8Jn2GUa</a></p>&mdash; Google Actívate (@GoogleActivate) <a href="https://twitter.com/GoogleActivate/status/704264713752997888">29 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Este curso es de 5 días de duración (full-time) y en esta ocasión se ha realizado en la Factultad de Informática de la Universidad Complutense de Madrid.
 La primera jornada era muy importante llevar impreso el identificador personale que nos habían enviado. A la entrada te daban el *lanyard* para llevarla visible en todo momento. También tuvimos que firmar un papel cediendo los derechos de imagen por las fotos que nos pudieran hacer en el salón de actos.
 
@@ -21,9 +24,6 @@ Nos dió la bienvenida [Álex Pina](https://twitter.com/pina089) - coordinador d
 > ¡Somos la primera edición del 2016!
 
 #### Tecnología y conceptos básicos
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¡Empiezan los cursos básicos de <a href="https://twitter.com/hashtag/MarketingDigital?src=hash">#MarketingDigital</a>! ¡Arrancamos en Madrid! 😊<a href="https://twitter.com/hashtag/Act%C3%ADvateMadrid?src=hash">#ActívateMadrid</a> <a href="https://t.co/uka8Jn2GUa">pic.twitter.com/uka8Jn2GUa</a></p>&mdash; Google Actívate (@GoogleActivate) <a href="https://twitter.com/GoogleActivate/status/704264713752997888">29 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Miriam García](https://twitter.com/MiriamGArmesto)
 se encargó de romper el hielo y nos introdujo los conceptos básicos del marketing digital, nos habló un poco de tecnología y de emailing y afiliación.
